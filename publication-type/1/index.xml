@@ -5,7 +5,7 @@
     <link>https://tmcarvalho.github.io/publication-type/1/</link>
       <atom:link href="https://tmcarvalho.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,13 +13,12 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
+      <title>The Compromise of Data Privacy in Predictive Performance</title>
       <link>https://tmcarvalho.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/publication/example/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
