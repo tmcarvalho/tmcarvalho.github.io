@@ -7,7 +7,7 @@
     <description>Tânia Carvalho</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
       <title>Tânia Carvalho</title>
       <link>https://tmcarvalho.github.io/</link>
     </image>
@@ -17,7 +17,11 @@
       <link>https://tmcarvalho.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/talk/example-talk/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -30,22 +34,18 @@
     
     <item>
       <title>Fundamental privacy rights in a pandemic state</title>
-      <link>https://tmcarvalho.github.io/publication/p2/</link>
+      <link>https://tmcarvalho.github.io/publication/example/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/publication/p2/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+      <guid>https://tmcarvalho.github.io/publication/example/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>The Compromise of Data Privacy in Predictive Performance</title>
-      <link>https://tmcarvalho.github.io/publication/example/</link>
+      <link>https://tmcarvalho.github.io/publication/ida/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/publication/example/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
+      <guid>https://tmcarvalho.github.io/publication/ida/</guid>
+      <description></description>
     </item>
     
     <item>
