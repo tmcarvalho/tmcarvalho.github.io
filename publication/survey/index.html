@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Faced with the emergence of the Covid-19 pandemic, and to better understand and contain the disease’s spread, health organisations increased the collaboration with other organisations sharing health data with data scientists and researchers. Data analysis assists such organisations in providing information that could help in decision-making processes. For this purpose, both national and regional health authorities provided health data for further processing and analysis. Shared data must comply with existing data protection and privacy regulations. Therefore, a robust de-identification procedure must be used, and a re-identification risk analysis should also be performed. De-identified data embodies state-of-the-art approaches in Data Protection by Design and Default because it requires the protection of direct and indirect identifiers (not just direct). This article highlights the importance of assessing re-identification risk before data disclosure by analysing a data set of individuals infected by Covid-19 that was made available for research purposes. We stress that it is highly important to make this data available for research purposes and that this process should be based on the state of the art methods in Data Protection by Design and by Default. Our main goal is to consider different re-identification risk analysis scenarios since the information on the intruder side is unknown. Our conclusions show that there is a risk of identity disclosure for all of the studied scenarios. For one, in particular, we proceed to an example of a re-identification attack. The outcome of such an attack reveals that it is possible to identify individuals with no much effort." />
+  <meta name="description" content="The exponential growth of collected, processed, and shared microdata has given rise to concerns about individuals&#39; privacy. As a result, laws and regulations have emerged to control what organisations do with microdata and how they protect it. Statistical Disclosure Control seeks to reduce the risk of confidential information disclosure by de-identifying them. Such de-identification is guaranteed through privacy-preserving techniques. However, de-identified data usually results in loss of information, with a possible impact on data analysis precision and model predictive performance. The main goal is to protect the individuals&#39; privacy while maintaining the interpretability of the data, i.e. its usefulness. Statistical Disclosure Control is an area that is expanding and needs to be explored since there is still no solution that guarantees optimal privacy and utility. This survey focuses on all steps of the de-identification process. We present existing privacy-preserving techniques used in microdata de-identification, privacy measures suitable for several disclosure types and, information loss and predictive performance measures. In this survey, we discuss the main challenges raised by privacy constraints, describe the main approaches to handle these obstacles, review taxonomies of privacy-preserving techniques, provide a theoretical analysis of existing comparative studies, and raise multiple open issues." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://tmcarvalho.github.io/publication/example/" />
+  <link rel="alternate" hreflang="en-us" href="https://tmcarvalho.github.io/publication/survey/" />
 
   
 
@@ -288,7 +288,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://tmcarvalho.github.io/publication/example/" />
+  <link rel="canonical" href="https://tmcarvalho.github.io/publication/survey/" />
 
   
   
@@ -305,18 +305,18 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Tânia Carvalho" />
-  <meta property="og:url" content="https://tmcarvalho.github.io/publication/example/" />
-  <meta property="og:title" content="Fundamental privacy rights in a pandemic state | Tânia Carvalho" />
-  <meta property="og:description" content="Faced with the emergence of the Covid-19 pandemic, and to better understand and contain the disease’s spread, health organisations increased the collaboration with other organisations sharing health data with data scientists and researchers. Data analysis assists such organisations in providing information that could help in decision-making processes. For this purpose, both national and regional health authorities provided health data for further processing and analysis. Shared data must comply with existing data protection and privacy regulations. Therefore, a robust de-identification procedure must be used, and a re-identification risk analysis should also be performed. De-identified data embodies state-of-the-art approaches in Data Protection by Design and Default because it requires the protection of direct and indirect identifiers (not just direct). This article highlights the importance of assessing re-identification risk before data disclosure by analysing a data set of individuals infected by Covid-19 that was made available for research purposes. We stress that it is highly important to make this data available for research purposes and that this process should be based on the state of the art methods in Data Protection by Design and by Default. Our main goal is to consider different re-identification risk analysis scenarios since the information on the intruder side is unknown. Our conclusions show that there is a risk of identity disclosure for all of the studied scenarios. For one, in particular, we proceed to an example of a re-identification attack. The outcome of such an attack reveals that it is possible to identify individuals with no much effort." /><meta property="og:image" content="https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://tmcarvalho.github.io/publication/survey/" />
+  <meta property="og:title" content="Survey on Privacy-Preserving Techniques for Data Publishing | Tânia Carvalho" />
+  <meta property="og:description" content="The exponential growth of collected, processed, and shared microdata has given rise to concerns about individuals&#39; privacy. As a result, laws and regulations have emerged to control what organisations do with microdata and how they protect it. Statistical Disclosure Control seeks to reduce the risk of confidential information disclosure by de-identifying them. Such de-identification is guaranteed through privacy-preserving techniques. However, de-identified data usually results in loss of information, with a possible impact on data analysis precision and model predictive performance. The main goal is to protect the individuals&#39; privacy while maintaining the interpretability of the data, i.e. its usefulness. Statistical Disclosure Control is an area that is expanding and needs to be explored since there is still no solution that guarantees optimal privacy and utility. This survey focuses on all steps of the de-identification process. We present existing privacy-preserving techniques used in microdata de-identification, privacy measures suitable for several disclosure types and, information loss and predictive performance measures. In this survey, we discuss the main challenges raised by privacy constraints, describe the main approaches to handle these obstacles, review taxonomies of privacy-preserving techniques, provide a theoretical analysis of existing comparative studies, and raise multiple open issues." /><meta property="og:image" content="https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-06-01T00:00:00&#43;00:00"
+        content="2022-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-06-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-01-01T00:00:00&#43;00:00">
   
 
   
@@ -338,12 +338,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://tmcarvalho.github.io/publication/example/"
+    "@id": "https://tmcarvalho.github.io/publication/survey/"
   },
-  "headline": "Fundamental privacy rights in a pandemic state",
+  "headline": "Survey on Privacy-Preserving Techniques for Data Publishing",
   
-  "datePublished": "2021-06-01T00:00:00Z",
-  "dateModified": "2021-06-01T00:00:00Z",
+  "datePublished": "2022-01-01T00:00:00Z",
+  "dateModified": "2022-01-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -358,7 +358,7 @@
       "url": "https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Faced with the emergence of the Covid-19 pandemic, and to better understand and contain the disease’s spread, health organisations increased the collaboration with other organisations sharing health data with data scientists and researchers. Data analysis assists such organisations in providing information that could help in decision-making processes. For this purpose, both national and regional health authorities provided health data for further processing and analysis. Shared data must comply with existing data protection and privacy regulations. Therefore, a robust de-identification procedure must be used, and a re-identification risk analysis should also be performed. De-identified data embodies state-of-the-art approaches in Data Protection by Design and Default because it requires the protection of direct and indirect identifiers (not just direct). This article highlights the importance of assessing re-identification risk before data disclosure by analysing a data set of individuals infected by Covid-19 that was made available for research purposes. We stress that it is highly important to make this data available for research purposes and that this process should be based on the state of the art methods in Data Protection by Design and by Default. Our main goal is to consider different re-identification risk analysis scenarios since the information on the intruder side is unknown. Our conclusions show that there is a risk of identity disclosure for all of the studied scenarios. For one, in particular, we proceed to an example of a re-identification attack. The outcome of such an attack reveals that it is possible to identify individuals with no much effort."
+  "description": "The exponential growth of collected, processed, and shared microdata has given rise to concerns about individuals' privacy. As a result, laws and regulations have emerged to control what organisations do with microdata and how they protect it. Statistical Disclosure Control seeks to reduce the risk of confidential information disclosure by de-identifying them. Such de-identification is guaranteed through privacy-preserving techniques. However, de-identified data usually results in loss of information, with a possible impact on data analysis precision and model predictive performance. The main goal is to protect the individuals' privacy while maintaining the interpretability of the data, i.e. its usefulness. Statistical Disclosure Control is an area that is expanding and needs to be explored since there is still no solution that guarantees optimal privacy and utility. This survey focuses on all steps of the de-identification process. We present existing privacy-preserving techniques used in microdata de-identification, privacy measures suitable for several disclosure types and, information loss and predictive performance measures. In this survey, we discuss the main challenges raised by privacy constraints, describe the main approaches to handle these obstacles, review taxonomies of privacy-preserving techniques, provide a theoretical analysis of existing comparative studies, and raise multiple open issues."
 }
 </script>
 
@@ -374,11 +374,11 @@
 
 
 
-  <title>Fundamental privacy rights in a pandemic state | Tânia Carvalho</title>
+  <title>Survey on Privacy-Preserving Techniques for Data Publishing | Tânia Carvalho</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="ff6a19061a984819d30c916886db56ef" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="c613964539060f72b7b5ca0b841b7b61" >
 
   
   
@@ -612,7 +612,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Fundamental privacy rights in a pandemic state</h1>
+  <h1>Survey on Privacy-Preserving Techniques for Data Publishing</h1>
 
   
 
@@ -644,7 +644,7 @@
     
       
     
-    June 2021
+    January 2022
   </span>
   
 
@@ -686,14 +686,14 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252169" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2201.08120" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/example/cite.bib">
+        data-filename="/publication/survey/cite.bib">
   Cite
 </a>
 
@@ -723,7 +723,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Faced with the emergence of the Covid-19 pandemic, and to better understand and contain the disease’s spread, health organisations increased the collaboration with other organisations sharing health data with data scientists and researchers. Data analysis assists such organisations in providing information that could help in decision-making processes. For this purpose, both national and regional health authorities provided health data for further processing and analysis. Shared data must comply with existing data protection and privacy regulations. Therefore, a robust de-identification procedure must be used, and a re-identification risk analysis should also be performed. De-identified data embodies state-of-the-art approaches in Data Protection by Design and Default because it requires the protection of direct and indirect identifiers (not just direct). This article highlights the importance of assessing re-identification risk before data disclosure by analysing a data set of individuals infected by Covid-19 that was made available for research purposes. We stress that it is highly important to make this data available for research purposes and that this process should be based on the state of the art methods in Data Protection by Design and by Default. Our main goal is to consider different re-identification risk analysis scenarios since the information on the intruder side is unknown. Our conclusions show that there is a risk of identity disclosure for all of the studied scenarios. For one, in particular, we proceed to an example of a re-identification attack. The outcome of such an attack reveals that it is possible to identify individuals with no much effort.</p>
+    <p class="pub-abstract">The exponential growth of collected, processed, and shared microdata has given rise to concerns about individuals' privacy. As a result, laws and regulations have emerged to control what organisations do with microdata and how they protect it. Statistical Disclosure Control seeks to reduce the risk of confidential information disclosure by de-identifying them. Such de-identification is guaranteed through privacy-preserving techniques. However, de-identified data usually results in loss of information, with a possible impact on data analysis precision and model predictive performance. The main goal is to protect the individuals' privacy while maintaining the interpretability of the data, i.e. its usefulness. Statistical Disclosure Control is an area that is expanding and needs to be explored since there is still no solution that guarantees optimal privacy and utility. This survey focuses on all steps of the de-identification process. We present existing privacy-preserving techniques used in microdata de-identification, privacy measures suitable for several disclosure types and, information loss and predictive performance measures. In this survey, we discuss the main challenges raised by privacy constraints, describe the main approaches to handle these obstacles, review taxonomies of privacy-preserving techniques, provide a theoretical analysis of existing comparative studies, and raise multiple open issues.</p>
     
 
     
@@ -734,8 +734,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#3">
+              Preprint
             </a>
           </div>
         </div>
@@ -751,7 +751,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>PLoS ONE</em></div>
+          <div class="col-12 col-md-9">In <em>arXiv</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -783,7 +783,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://tmcarvalho.github.io/publication/example/&amp;text=Fundamental%20privacy%20rights%20in%20a%20pandemic%20state" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://tmcarvalho.github.io/publication/survey/&amp;text=Survey%20on%20Privacy-Preserving%20Techniques%20for%20Data%20Publishing" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -796,7 +796,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://tmcarvalho.github.io/publication/example/&amp;t=Fundamental%20privacy%20rights%20in%20a%20pandemic%20state" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://tmcarvalho.github.io/publication/survey/&amp;t=Survey%20on%20Privacy-Preserving%20Techniques%20for%20Data%20Publishing" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -809,7 +809,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Fundamental%20privacy%20rights%20in%20a%20pandemic%20state&amp;body=https://tmcarvalho.github.io/publication/example/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Survey%20on%20Privacy-Preserving%20Techniques%20for%20Data%20Publishing&amp;body=https://tmcarvalho.github.io/publication/survey/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -822,7 +822,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://tmcarvalho.github.io/publication/example/&amp;title=Fundamental%20privacy%20rights%20in%20a%20pandemic%20state" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://tmcarvalho.github.io/publication/survey/&amp;title=Survey%20on%20Privacy-Preserving%20Techniques%20for%20Data%20Publishing" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -835,7 +835,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Fundamental%20privacy%20rights%20in%20a%20pandemic%20state%20https://tmcarvalho.github.io/publication/example/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Survey%20on%20Privacy-Preserving%20Techniques%20for%20Data%20Publishing%20https://tmcarvalho.github.io/publication/survey/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -848,7 +848,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://tmcarvalho.github.io/publication/example/&amp;title=Fundamental%20privacy%20rights%20in%20a%20pandemic%20state" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://tmcarvalho.github.io/publication/survey/&amp;title=Survey%20on%20Privacy-Preserving%20Techniques%20for%20Data%20Publishing" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

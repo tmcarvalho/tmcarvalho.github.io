@@ -33,10 +33,18 @@
     </item>
     
     <item>
-      <title>Towards a Data Privacy-Predictive Performance Trade-off</title>
-      <link>https://tmcarvalho.github.io/publication/arxiv/</link>
+      <title>Survey on Privacy-Preserving Techniques for Data Publishing</title>
+      <link>https://tmcarvalho.github.io/publication/survey/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/publication/arxiv/</guid>
+      <guid>https://tmcarvalho.github.io/publication/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Data Privacy-Predictive Performance Trade-off</title>
+      <link>https://tmcarvalho.github.io/publication/eswa/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/publication/eswa/</guid>
       <description></description>
     </item>
     
