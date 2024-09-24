@@ -5,12 +5,20 @@
     <link>https://tmcarvalho.github.io/publication/</link>
       <atom:link href="https://tmcarvalho.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://tmcarvalho.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Empowering Open Data Sharing for Social Good: A Privacy-Aware Approach</title>
+      <link>https://tmcarvalho.github.io/publication/opendata/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/publication/opendata/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Privacy-Preserving Techniques via Meta-Learning</title>
