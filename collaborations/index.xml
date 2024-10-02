@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaborations | Tânia Carvalho</title>
+    <link>https://tmcarvalho.github.io/collaborations/</link>
+      <atom:link href="https://tmcarvalho.github.io/collaborations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collaborations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
+      <title>Collaborations</title>
+      <link>https://tmcarvalho.github.io/collaborations/</link>
+    </image>
+    
+    <item>
+      <title>Synthetic Data Outliers: Navigating Identity Disclosure</title>
+      <link>https://tmcarvalho.github.io/collaborations/psd/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/collaborations/psd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing Project-Specific Informed Consent Forms: A Multi-Step Approach within the REPO4EU Framework</title>
+      <link>https://tmcarvalho.github.io/collaborations/repoeu/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/collaborations/repoeu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

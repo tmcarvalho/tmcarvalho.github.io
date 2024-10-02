@@ -5,12 +5,20 @@
     <link>https://tmcarvalho.github.io/</link>
       <atom:link href="https://tmcarvalho.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tânia Carvalho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
       <title>Tânia Carvalho</title>
       <link>https://tmcarvalho.github.io/</link>
     </image>
+    
+    <item>
+      <title>Synthetic Data Outliers: Navigating Identity Disclosure</title>
+      <link>https://tmcarvalho.github.io/collaborations/psd/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/collaborations/psd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Empowering Open Data Sharing for Social Good: A Privacy-Aware Approach</title>
@@ -29,18 +37,10 @@
     </item>
     
     <item>
-      <title>Synthetic Data Outliers: Navigating Identity Disclosure</title>
-      <link>https://tmcarvalho.github.io/publication/psd/</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/publication/psd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Developing Project-Specific Informed Consent Forms: A Multi-Step Approach within the REPO4EU Framework</title>
-      <link>https://tmcarvalho.github.io/publication/repoeu/</link>
+      <link>https://tmcarvalho.github.io/collaborations/repoeu/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/publication/repoeu/</guid>
+      <guid>https://tmcarvalho.github.io/collaborations/repoeu/</guid>
       <description></description>
     </item>
     
