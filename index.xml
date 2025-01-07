@@ -5,7 +5,7 @@
     <link>https://tmcarvalho.github.io/</link>
       <atom:link href="https://tmcarvalho.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tânia Carvalho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
       <title>Tânia Carvalho</title>
@@ -13,10 +13,36 @@
     </image>
     
     <item>
+      <title>Developing Project-Specific Consent Documents: A Registered Report for a Multistep Approach Using LLMs</title>
+      <link>https://tmcarvalho.github.io/publication/repoeu_protocol/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/publication/repoeu_protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Visual Data Processing via Federated Learning</title>
+      <link>https://tmcarvalho.github.io/publication/securevisualfl/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/publication/securevisualfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Mentor</title>
+      <link>https://tmcarvalho.github.io/collaborations/hackacity/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/collaborations/hackacity/</guid>
+      <description>&lt;p&gt;Problem: Public transportation is a crucial component to every city, and a poor management of this resource can greatly affect citizens day-to-day lives by creating traffic, pollution, and population satisfaction in general.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Synthetic Data Outliers: Navigating Identity Disclosure</title>
-      <link>https://tmcarvalho.github.io/collaborations/psd/</link>
+      <link>https://tmcarvalho.github.io/publication/psd/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/collaborations/psd/</guid>
+      <guid>https://tmcarvalho.github.io/publication/psd/</guid>
       <description></description>
     </item>
     
@@ -37,10 +63,20 @@
     </item>
     
     <item>
-      <title>Developing Project-Specific Informed Consent Forms: A Multi-Step Approach within the REPO4EU Framework</title>
+      <title>Collaborator</title>
       <link>https://tmcarvalho.github.io/collaborations/repoeu/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/collaborations/repoeu/</guid>
+      <description>&lt;p&gt;This project is a collaboration between School of Medicine and Biomedical Sciences, Faculty of Sciences and TekPrivacy.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Developing Project-Specific Informed Consent Forms: A Multi-Step Approach within the REPO4EU Framework</title>
+      <link>https://tmcarvalho.github.io/publication/repoeu/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/publication/repoeu/</guid>
       <description></description>
     </item>
     
@@ -109,9 +145,9 @@ This course covers the de-identification process which aims to protect the indiv
     
     <item>
       <title>Fundamental privacy rights in a pandemic state</title>
-      <link>https://tmcarvalho.github.io/publication/example/</link>
+      <link>https://tmcarvalho.github.io/publication/plos/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/publication/example/</guid>
+      <guid>https://tmcarvalho.github.io/publication/plos/</guid>
       <description></description>
     </item>
     
