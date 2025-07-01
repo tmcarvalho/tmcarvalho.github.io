@@ -5,7 +5,7 @@
     <link>https://tmcarvalho.github.io/</link>
       <atom:link href="https://tmcarvalho.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tânia Carvalho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
       <title>Tânia Carvalho</title>
@@ -13,11 +13,29 @@
     </image>
     
     <item>
+      <title>Differentially-private data synthetisation for efficient re-identification risk control</title>
+      <link>https://tmcarvalho.github.io/publication/privatesmote/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/publication/privatesmote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Secure Visual Data Processing via Federated Learning</title>
       <link>https://tmcarvalho.github.io/publication/securevisualfl/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/publication/securevisualfl/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Track chair</title>
+      <link>https://tmcarvalho.github.io/collaborations/epia25/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/collaborations/epia25/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://epia2025.ualg.pt/tt-ethics-and-responsibility-in-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://epia2025.ualg.pt/tt-ethics-and-responsibility-in-ai/&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+</description>
     </item>
     
     <item>
@@ -132,14 +150,6 @@ This course covers the de-identification process which aims to protect the indiv
       <link>https://tmcarvalho.github.io/publication/survey/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/publication/survey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy-Preserving Data Synthetisation for Secure Information Sharing</title>
-      <link>https://tmcarvalho.github.io/publication/privatesmote/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/publication/privatesmote/</guid>
       <description></description>
     </item>
     

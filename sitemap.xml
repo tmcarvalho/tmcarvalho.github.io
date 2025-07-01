@@ -2,23 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tmcarvalho.github.io/publication-type/2/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tmcarvalho.github.io/publication/privatesmote/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tmcarvalho.github.io/publication_types/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tmcarvalho.github.io/publication/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tmcarvalho.github.io/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tmcarvalho.github.io/publication-type/1/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tmcarvalho.github.io/publication_types/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tmcarvalho.github.io/publication/</loc>
+    <loc>https://tmcarvalho.github.io/collaborations/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/securevisualfl/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tmcarvalho.github.io/</loc>
+    <loc>https://tmcarvalho.github.io/collaborations/epia25/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tmcarvalho.github.io/publication-type/3/</loc>
-    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/opendata/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
@@ -29,11 +38,11 @@
     <loc>https://tmcarvalho.github.io/collaborations/hackacity/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tmcarvalho.github.io/collaborations/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tmcarvalho.github.io/publication/psd/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tmcarvalho.github.io/publication-type/3/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/autopriv/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
@@ -56,17 +65,11 @@
     <loc>https://tmcarvalho.github.io/project/example/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tmcarvalho.github.io/publication-type/2/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tmcarvalho.github.io/publication/eswa/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/survey/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tmcarvalho.github.io/publication/privatesmote/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/plos/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
