@@ -5,12 +5,20 @@
     <link>https://tmcarvalho.github.io/</link>
       <atom:link href="https://tmcarvalho.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tânia Carvalho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
       <title>Tânia Carvalho</title>
       <link>https://tmcarvalho.github.io/</link>
     </image>
+    
+    <item>
+      <title>Automated Privacy-Preserving Techniques via Meta-Learning</title>
+      <link>https://tmcarvalho.github.io/publication/autopriv/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/publication/autopriv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differentially-private data synthetisation for efficient re-identification risk control</title>
@@ -69,14 +77,6 @@
       <link>https://tmcarvalho.github.io/publication/psd/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/publication/psd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated Privacy-Preserving Techniques via Meta-Learning</title>
-      <link>https://tmcarvalho.github.io/publication/autopriv/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/publication/autopriv/</guid>
       <description></description>
     </item>
     
