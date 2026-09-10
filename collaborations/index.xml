@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collaborations | Tânia Carvalho</title>
+    <title>Collaborations / Activities | Tânia Carvalho</title>
     <link>https://tmcarvalho.github.io/collaborations/</link>
       <atom:link href="https://tmcarvalho.github.io/collaborations/index.xml" rel="self" type="application/rss+xml" />
-    <description>Collaborations</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <description>Collaborations / Activities</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Tânia Carvalho</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
-      <title>Collaborations</title>
+      <title>Collaborations / Activities</title>
       <link>https://tmcarvalho.github.io/collaborations/</link>
     </image>
     
@@ -17,8 +17,7 @@
       <link>https://tmcarvalho.github.io/collaborations/epia25/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/collaborations/epia25/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://epia2025.ualg.pt/tt-ethics-and-responsibility-in-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://epia2025.ualg.pt/tt-ethics-and-responsibility-in-ai/&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
+      <description>&lt;p&gt;More details about the track are available &lt;a href=&#34;https://epia2025.ualg.pt/tt-ethics-and-responsibility-in-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,8 +26,7 @@
       <link>https://tmcarvalho.github.io/collaborations/hackacity/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/collaborations/hackacity/</guid>
-      <description>&lt;p&gt;Problem: Public transportation is a crucial component to every city, and a poor management of this resource can greatly affect citizens day-to-day lives by creating traffic, pollution, and population satisfaction in general.&lt;/p&gt;
-&lt;hr&gt;
+      <description>&lt;p&gt;Public transportation is a crucial component of every city, and poor management of this resource can greatly affect citizens&#39; day-to-day lives by creating traffic, pollution, and lower population satisfaction overall.&lt;/p&gt;
 </description>
     </item>
     
@@ -38,7 +36,6 @@
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/collaborations/repoeu/</guid>
       <description>&lt;p&gt;This project is a collaboration between School of Medicine and Biomedical Sciences, Faculty of Sciences and TekPrivacy.&lt;/p&gt;
-&lt;hr&gt;
 </description>
     </item>
     

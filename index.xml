@@ -5,12 +5,21 @@
     <link>https://tmcarvalho.github.io/</link>
       <atom:link href="https://tmcarvalho.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tânia Carvalho</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Tânia Carvalho</copyright><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
       <title>Tânia Carvalho</title>
       <link>https://tmcarvalho.github.io/</link>
     </image>
+    
+    <item>
+      <title>Attention-based MIA and target label k-anonymity defence</title>
+      <link>https://tmcarvalho.github.io/project/amia/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/project/amia/</guid>
+      <description>&lt;p&gt;AMIA is a new attention-based MIA tailored for tabular foudnation models that exploits attention dynamics across layers and heads to infer membership information from context set. Rather than relying on shadow models or auxiliary population data, the attack requires only access to the model. The k-anonymity-based defence targets high-risk queries, achieving a drastic reduction in attack effectiveness while preserving predictive utility.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automated Privacy-Preserving Techniques via Meta-Learning</title>
@@ -41,8 +50,7 @@
       <link>https://tmcarvalho.github.io/collaborations/epia25/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/collaborations/epia25/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://epia2025.ualg.pt/tt-ethics-and-responsibility-in-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://epia2025.ualg.pt/tt-ethics-and-responsibility-in-ai/&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
+      <description>&lt;p&gt;More details about the track are available &lt;a href=&#34;https://epia2025.ualg.pt/tt-ethics-and-responsibility-in-ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -67,8 +75,7 @@
       <link>https://tmcarvalho.github.io/collaborations/hackacity/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/collaborations/hackacity/</guid>
-      <description>&lt;p&gt;Problem: Public transportation is a crucial component to every city, and a poor management of this resource can greatly affect citizens day-to-day lives by creating traffic, pollution, and population satisfaction in general.&lt;/p&gt;
-&lt;hr&gt;
+      <description>&lt;p&gt;Public transportation is a crucial component of every city, and poor management of this resource can greatly affect citizens&#39; day-to-day lives by creating traffic, pollution, and lower population satisfaction overall.&lt;/p&gt;
 </description>
     </item>
     
@@ -86,7 +93,6 @@
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/collaborations/repoeu/</guid>
       <description>&lt;p&gt;This project is a collaboration between School of Medicine and Biomedical Sciences, Faculty of Sciences and TekPrivacy.&lt;/p&gt;
-&lt;hr&gt;
 </description>
     </item>
     
@@ -104,7 +110,7 @@
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/project/privatesmote/</guid>
       <description>&lt;p&gt;ε-PrivateSMOTE is a technique designed for safeguarding against re-identification and linkage attacks, particularly addressing cases with a high re-identification risk. It generates synthetic data via noise-induced interpolation with differential privacy principles to obfuscate high-risk cases.
-ε-PrivateSMOTE allows having new cases similar to the originals while preserving privacy and maximising predictive utility. Most importanly,
+ε-PrivateSMOTE allows having new cases similar to the originals while preserving privacy and maximising predictive utility. Most importantly,
 ε-PrivateSMOTE is a resource efficient and less time-consuming than conventional de-identification approaches such as deep learning and differential privacy-based solutions.&lt;/p&gt;
 </description>
     </item>
@@ -119,9 +125,9 @@
     
     <item>
       <title>Hands-on data de-identification</title>
-      <link>https://tmcarvalho.github.io/project/example/</link>
+      <link>https://tmcarvalho.github.io/project/hands-on-deidentification/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/project/example/</guid>
+      <guid>https://tmcarvalho.github.io/project/hands-on-deidentification/</guid>
       <description>&lt;p&gt;Statistical Disclosure Control seeks to reduce the risk of confidential information
 disclosure by de-identifying them. Such de-identification is guaranteed through privacy-preserving
 techniques (PPTs). However, de-identified data usually results in loss of information, with a possible impact on data analysis precision and model predictive performance.

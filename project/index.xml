@@ -5,7 +5,7 @@
     <link>https://tmcarvalho.github.io/project/</link>
       <atom:link href="https://tmcarvalho.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Tânia Carvalho</copyright><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Tânia Carvalho</copyright><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tmcarvalho.github.io/media/icon_hudd826bf8b7cdb19f447252b8976756b2_613384_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,21 +13,30 @@
     </image>
     
     <item>
+      <title>Attention-based MIA and target label k-anonymity defence</title>
+      <link>https://tmcarvalho.github.io/project/amia/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tmcarvalho.github.io/project/amia/</guid>
+      <description>&lt;p&gt;AMIA is a new attention-based MIA tailored for tabular foudnation models that exploits attention dynamics across layers and heads to infer membership information from context set. Rather than relying on shadow models or auxiliary population data, the attack requires only access to the model. The k-anonymity-based defence targets high-risk queries, achieving a drastic reduction in attack effectiveness while preserving predictive utility.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ε-PrivateSMOTE</title>
       <link>https://tmcarvalho.github.io/project/privatesmote/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://tmcarvalho.github.io/project/privatesmote/</guid>
       <description>&lt;p&gt;ε-PrivateSMOTE is a technique designed for safeguarding against re-identification and linkage attacks, particularly addressing cases with a high re-identification risk. It generates synthetic data via noise-induced interpolation with differential privacy principles to obfuscate high-risk cases.
-ε-PrivateSMOTE allows having new cases similar to the originals while preserving privacy and maximising predictive utility. Most importanly,
+ε-PrivateSMOTE allows having new cases similar to the originals while preserving privacy and maximising predictive utility. Most importantly,
 ε-PrivateSMOTE is a resource efficient and less time-consuming than conventional de-identification approaches such as deep learning and differential privacy-based solutions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hands-on data de-identification</title>
-      <link>https://tmcarvalho.github.io/project/example/</link>
+      <link>https://tmcarvalho.github.io/project/hands-on-deidentification/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://tmcarvalho.github.io/project/example/</guid>
+      <guid>https://tmcarvalho.github.io/project/hands-on-deidentification/</guid>
       <description>&lt;p&gt;Statistical Disclosure Control seeks to reduce the risk of confidential information
 disclosure by de-identifying them. Such de-identification is guaranteed through privacy-preserving
 techniques (PPTs). However, de-identified data usually results in loss of information, with a possible impact on data analysis precision and model predictive performance.

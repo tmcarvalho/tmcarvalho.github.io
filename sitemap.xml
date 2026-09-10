@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tmcarvalho.github.io/project/amia/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tmcarvalho.github.io/project/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tmcarvalho.github.io/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tmcarvalho.github.io/publication-type/2/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +21,6 @@
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tmcarvalho.github.io/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/privatesmote/</loc>
@@ -50,16 +56,13 @@
     <loc>https://tmcarvalho.github.io/publication/repoeu/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tmcarvalho.github.io/project/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tmcarvalho.github.io/project/privatesmote/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/epia/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tmcarvalho.github.io/project/example/</loc>
+    <loc>https://tmcarvalho.github.io/project/hands-on-deidentification/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmcarvalho.github.io/publication/eswa/</loc>
